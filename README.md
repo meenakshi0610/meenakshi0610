@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @meenakshi0610
+- 👀 I’m interested in DSA and webdev
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on new projects
